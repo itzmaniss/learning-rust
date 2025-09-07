@@ -7,5 +7,21 @@ name = "chapter01"
 version = "0.1.0"
 
 [[package]]
+name = "chapter02"
+version = "0.1.0"
+
+[[package]]
+name = "chapter03"
+version = "0.1.0"
+
+[[package]]
+name = "chapter04"
+version = "0.1.0"
+
+[[package]]
+name = "chapter05"
+version = "0.1.0"
+
+[[package]]
 name = "learn_rust"
 version = "0.1.0"
